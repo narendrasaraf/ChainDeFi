@@ -12,6 +12,7 @@ A comprehensive Web3 Microfinance Platform including Frontend, Backend, and Bloc
 
 ## 🚀 Getting Started
 
+
 ### 1. Backend Setup
 
 1. Navigate to the backend directory:
