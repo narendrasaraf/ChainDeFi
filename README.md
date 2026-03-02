@@ -1,4 +1,4 @@
-# Aamba Integrated Application
+# ChainDeFi Integrated Application
 
 A comprehensive Web3 Microfinance Platform including Frontend, Backend, and Blockchain components.
 
