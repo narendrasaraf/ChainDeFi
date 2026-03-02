@@ -1,0 +1,10 @@
+{
+  "identity": "0x31E1168Ed7F90510f78B7D1714bbc4e02034EF3f",
+  "microfinance": "0x5a52d9806CdD6A2c00FD059C9f0cfEFeCeE6f5d3",
+  "trustScore": "0x3a8A57181aE6155588dB7D1cB56f70bA966B4f92",
+  "network": "sepolia",
+  "chainId": 11155111,
+  "treasury": "0xdcA6845bC20c19Cfc5074AaC0b940657FDE53B4D",
+  "loanFactory": "0x9C5be9220B98D56f6794f14e25E185DC12C4aaFE",
+  "mockUSDT": "0xec78C8BB7d36bCd2e0ecDbdb231fB192fbA392fE"
+}

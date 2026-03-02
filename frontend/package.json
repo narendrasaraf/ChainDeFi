@@ -1,0 +1,45 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@aws-amplify/ui-react": "^6.15.1",
+    "@aws-amplify/ui-react-liveness": "^3.6.1",
+    "@rainbow-me/rainbowkit": "2.1.2",
+    "@tailwindcss/vite": "^4.2.0",
+    "@tanstack/react-query": "^5.90.21",
+    "aws-amplify": "^6.16.2",
+    "axios": "^1.13.5",
+    "buffer": "^6.0.3",
+    "ethers": "^6.16.0",
+    "framer-motion": "^12.34.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.6.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.13.0",
+    "react-webcam": "^7.2.0",
+    "tailwindcss": "^4.2.0",
+    "viem": "2.16.0",
+    "wagmi": "2.10.9"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-basic-ssl": "^2.1.4",
+    "@vitejs/plugin-react": "^5.1.1",
+    "eslint": "^9.39.0",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.5.0",
+    "vite": "^7.3.1"
+  }
+}
